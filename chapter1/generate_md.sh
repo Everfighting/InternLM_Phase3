@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 指定图片文件夹路径
-IMAGE_DIR="./"
+IMAGE_DIR="./basic_git/git_src"
 # 指定输出 Markdown 文件路径
 OUTPUT_MD="output.md"
 
